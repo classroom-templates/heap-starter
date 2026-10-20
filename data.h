@@ -1,8 +1,7 @@
 /**
- * @file data.h
- * @author Alex Katrompas
- * @assignment Assignment 8 - Heaps
- * @brief Defines the records stored by the priority queue.
+ * Name: Alexander Katrompas
+ * Assignment: Assignment 8 - Heaps
+ * Purpose: Defines the records stored by the priority queue.
  */
 
 #ifndef DATA_H
